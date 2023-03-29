@@ -1,16 +1,20 @@
 {
-      "name": "KRISTY",
+      "name": "SANKHU",
       "description": "A Powerful Telegram Group Management Bot To Manage Your Group.",
       "keywords": [
          "telegram",
          "advance",
          "group",
          "manager",
-         "KRISTY"
+         "sankhu"
       ],
     
    "logo": "https://i.redd.it/7su0xi3jrte41.jpg",  
-   "repository": "https://github.com/MISS-KRISTY/KRISTY",
+   "repository": "https://github.com/KITTIBUNSNKH
+
+/
+
+BiluManager
    "addons": [
           {
          "options": {
@@ -31,27 +35,27 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": ""
+         "value": "6063934574:AAGf9jWome84GWi437o68c_KCGGZmj-leHw"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "27329085"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "0fb41ad125032deac1578a599aefec48"
       },    
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1820525265"
+         "value": "6181792815"
       },
       "STRING_SESSION": {
          "description": "Fill with telethon string session get it form https://replit.com/@MISSKRISTY/MISS-KRISTY.",
          "required": true,
-         "value": "" 
+         "value": "1BVtsOIcBuyXhg7SH-A6EPjE8_ZTnGZDHcWlFx3scNYH56ijddh3hDlA1YYB_zrTT4qW-yzT1zVW1TN1eiGVKpsAET9pMYKM41sENY1bvOMC91XGHTW4VM0YjFfHdb9f8Kdux4j2qfoVledzNm11_EjEQboRcr3Clhx18ZG1mSVJJ3jtZLyxpTlg18ZztzMrvAQx8PrYwFpI_4Ec55zO8K63fRzbUWvm12N27N_eerTjr8NSPy_BJAVr7nXq1ckAHoQjgzkFtoHmxYP-tlC-sFLCbJzlJZu_yhp6m9pApLPw40dcuG2g_LjgVSKCvnKWOfeQfDy9_FehmKXM4xw5hQVpTRnq34iU=" 
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -71,31 +75,31 @@
       },  
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "miss_kristy_bot"
+         "value": "SankhuManagerbot"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "I_AM_PRO_KING"
+         "value": "NoOneSn01"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "TEAMXTRON"
+         "value": "https://t.me/DramaticClubb"
       },
       "UPDATES_CHANNEL": {
          "description": "Your Telegram update channel chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "TEAMX_TRON"
+         "value": "https://t.me/dramaticsticker"
       },         
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://Lisa:Lisa@lisa.r1bgylg.mongodb.net/?retryWrites=true&w=majority"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
          "required": true,
-         "value": "-xyz"
+         "value": "http://api.timezonedb.com/v2.1/list-time-zone"
       }, 
       "OPENWEATHERMAP_ID": {
         "description": "Get your own API from https://api.openweathermap.org/data/2.5/weather",
@@ -115,7 +119,9 @@
       "ARQ_API_KEY": {
             "description": "Get this from @ARQRobot.",
             "required": true
-      },
+      }  "value": "JHXIOA-JQMFCQ-TCWHXY-MDLGCN-ARQ"
+"value" 
+"JHXI
       "SPAMWATCH_API": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
          "required": false,
@@ -181,7 +187,7 @@
         "START_STICKER": {
          "description": "Sticker that display on /start command",
          "required": "True",
-         "value": "CAACAgEAAxkBAAIENmOtocrkAAFYQnR1n-JsILPElA_P_QACUQQAAlEpDTl3jiWehEIXYywE"
+         "value": ""
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
